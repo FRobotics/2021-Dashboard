@@ -14,13 +14,13 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Support" Type="Folder">
-			<Item Name="App EXE.ico" Type="Document" URL="../App EXE.ico"/>
-			<Item Name="Parse Digital Module.vi" Type="VI" URL="../Parse Digital Module.vi"/>
-			<Item Name="Save DB Images.vi" Type="VI" URL="../Save DB Images.vi"/>
-			<Item Name="Decode Status Byte.vi" Type="VI" URL="../Decode Status Byte.vi"/>
-			<Item Name="Panel Resized.vi" Type="VI" URL="../Panel Resized.vi"/>
-			<Item Name="Adjust Dashboard Window.vi" Type="VI" URL="../Adjust Dashboard Window.vi"/>
-			<Item Name="Prepare Joystick Data for Displays.vi" Type="VI" URL="../../2021_Dashboard/Prepare Joystick Data for Displays.vi"/>
+			<Item Name="App EXE.ico" Type="Document" URL="../2020 Dashboard Project - Rotated Rect Test Attempt 2/App EXE.ico"/>
+			<Item Name="Parse Digital Module.vi" Type="VI" URL="../2020 Dashboard Project - Rotated Rect Test Attempt 2/Parse Digital Module.vi"/>
+			<Item Name="Save DB Images.vi" Type="VI" URL="../2020 Dashboard Project - Rotated Rect Test Attempt 2/Save DB Images.vi"/>
+			<Item Name="Decode Status Byte.vi" Type="VI" URL="../2020 Dashboard Project - Rotated Rect Test Attempt 2/Decode Status Byte.vi"/>
+			<Item Name="Panel Resized.vi" Type="VI" URL="../2020 Dashboard Project - Rotated Rect Test Attempt 2/Panel Resized.vi"/>
+			<Item Name="Adjust Dashboard Window.vi" Type="VI" URL="../2020 Dashboard Project - Rotated Rect Test Attempt 2/Adjust Dashboard Window.vi"/>
+			<Item Name="Prepare Joystick Data for Displays.vi" Type="VI" URL="../2021_Dashboard/Prepare Joystick Data for Displays.vi"/>
 		</Item>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
 		<Item Name="Calibration Helper2.vi" Type="VI" URL="../Calibration Helper2.vi"/>
